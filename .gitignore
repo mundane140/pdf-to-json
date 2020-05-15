@@ -1,0 +1,11 @@
+*
+!/templates
+!/templates/sample.js
+!/sources
+!/sources/sample.pdf
+!.gitignore
+!app.js
+!package.json
+!package-lock.json
+!README.md
+!sample-config.yaml

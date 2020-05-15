@@ -1,0 +1,23 @@
+{
+  "name": "pdf-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mundane140/pdf-to-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mundane140/pdf-to-json/issues"
+  },
+  "homepage": "https://github.com/mundane140/pdf-to-json#readme",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "pdfreader": "^1.0.7"
+  }
+}
